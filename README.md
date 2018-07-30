@@ -1,6 +1,9 @@
 README Report
+
 Milestone 3
+
 Team #1544: GruPix+
+
 Shreyas and Ruhani
 
 
