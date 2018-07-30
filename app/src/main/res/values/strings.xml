@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GruPix+</string>
+    <string name="homepage">This is the homepage</string>
+    <string name="row_album">This is some</string>
+    <string name="gallery_option">Gallery</string>
+    <string name="fr_option">Grouped Pictures</string>
+    <string name="choose_option">What would you like to view?</string>
+    <string name="ok">Works</string>
+</resources>
